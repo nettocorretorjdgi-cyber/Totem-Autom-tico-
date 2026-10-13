@@ -1,0 +1,6 @@
+{
+  "name": "Totem Autoatendimento - Restaurante",
+  "description": "Sistema interativo de autoatendimento para pedidos em restaurante com integração Supabase e Webhook n8n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
